@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Name": "Product 1",
+      "Price": 19.99,
+      "ImageURL": "https://picsum.photos/id/1001/200",
+      "SKU": "123456789",
+      "BackgroundColor": "rgba(220, 190, 220, 0.8)"
+    },
+    {
+      "id": 2,
+      "Name": "Product 2",
+      "Price": 24.99,
+      "ImageURL": "https://picsum.photos/id/978/200",
+      "SKU": "6563216094",
+      "BackgroundColor": "rgba(200, 210, 180, 0.8)"
+    },
+    {
+      "id": 3,
+      "Name": "Product 3",
+      "Price": 12.49,
+      "ImageURL": "https://picsum.photos/id/1000/200",
+      "SKU": "456789123",
+      "BackgroundColor": "rgba(180, 200, 230, 0.8)"
+    },
+    {
+      "id": 4,
+      "Name": "Product 4",
+      "Price": 8.99,
+      "ImageURL": "https://picsum.photos/id/1003/200",
+      "SKU": "789123456",
+      "BackgroundColor": "rgba(210, 180, 200, 0.8)"
+    },
+    {
+      "id": 5,
+      "Name": "Product 5",
+      "Price": 29.95,
+      "ImageURL": "https://picsum.photos/id/1004/200",
+      "SKU": "234567891",
+      "BackgroundColor": "rgba(190, 230, 180, 0.8)"
+    },
+    {
+      "id": 6,
+      "Name": "Product 6",
+      "Price": 17.99,
+      "ImageURL": "https://picsum.photos/id/1005/200",
+      "SKU": "567891234",
+      "BackgroundColor": "rgba(200, 190, 220, 0.8)"
+    },
+    {
+      "id": 7,
+      "Name": "Product 7",
+      "Price": 39.99,
+      "ImageURL": "https://picsum.photos/id/1006/200",
+      "SKU": "891234567",
+      "BackgroundColor": "rgba(180, 220, 200, 0.8)"
+    },
+    {
+      "id": 8,
+      "Name": "Product 8",
+      "Price": 14.95,
+      "ImageURL": "https://picsum.photos/id/999/200",
+      "SKU": "345678912",
+      "BackgroundColor": "rgba(230, 180, 190, 0.8)"
+    },
+    {
+      "id": 9,
+      "Name": "Product 9",
+      "Price": 22.5,
+      "ImageURL": "https://picsum.photos/id/1008/200",
+      "SKU": "678912345",
+      "BackgroundColor": "rgba(220, 200, 180, 0.8)"
+    },
+    {
+      "id": 10,
+      "Name": "Product 10",
+      "Price": 10.99,
+      "ImageURL": "https://picsum.photos/id/1009/200",
+      "SKU": "912345678",
+      "BackgroundColor": "rgba(190, 180, 220, 0.8)"
+    },
+    {
+      "id": 11,
+      "Name": "Product 11",
+      "Price": 18.75,
+      "ImageURL": "https://picsum.photos/id/1010/200",
+      "SKU": "543216789",
+      "BackgroundColor": "rgba(210, 200, 190, 0.8)"
+    },
+    {
+      "id": 12,
+      "Name": "Product 12",
+      "Price": 6.49,
+      "ImageURL": "https://picsum.photos/id/1011/200",
+      "SKU": "876543219",
+      "BackgroundColor": "rgba(220, 210, 180, 0.8)"
+    },
+    {
+      "id": 13,
+      "Name": "Product 13",
+      "Price": 29.99,
+      "ImageURL": "https://picsum.photos/id/1012/200",
+      "SKU": "321987654",
+      "BackgroundColor": "rgba(180, 190, 210, 0.8)"
+    },
+    {
+      "id": 14,
+      "Name": "Product 14",
+      "Price": 12.95,
+      "ImageURL": "https://picsum.photos/id/1013/200",
+      "SKU": "654321987",
+      "BackgroundColor": "rgba(200, 180, 210, 0.8)"
+    },
+    {
+      "id": 15,
+      "Name": "Product 15",
+      "Price": 21.99,
+      "ImageURL": "https://picsum.photos/id/1014/200",
+      "SKU": "987654123",
+      "BackgroundColor": "rgba(220, 180, 200, 0.8)"
+    },
+    {
+      "id": 16,
+      "Name": "Product 16",
+      "Price": 9.99,
+      "ImageURL": "https://picsum.photos/id/1015/200",
+      "SKU": "456789012",
+      "BackgroundColor": "rgba(180, 220, 190, 0.8)"
+    },
+    {
+      "id": 17,
+      "Name": "Product 17",
+      "Price": 34.5,
+      "ImageURL": "https://picsum.photos/id/1016/200",
+      "SKU": "789012345",
+      "BackgroundColor": "rgba(190, 200, 220, 0.8)"
+    },
+    {
+      "id": 18,
+      "Name": "Product 18",
+      "Price": 15.99,
+      "ImageURL": "https://picsum.photos/id/998/200",
+      "SKU": "123450987",
+      "BackgroundColor": "rgba(210, 190, 200, 0.8)"
+    },
+    {
+      "id": 19,
+      "Name": "Product 19",
+      "Price": 7.25,
+      "ImageURL": "https://picsum.photos/id/1018/200",
+      "SKU": "678901234",
+      "BackgroundColor": "rgba(200, 220, 180, 0.8)"
+    },
+    {
+      "id": 20,
+      "Name": "Product 20",
+      "Price": 25.49,
+      "ImageURL": "https://picsum.photos/id/1019/200",
+      "SKU": "345678901",
+      "BackgroundColor": "rgba(220, 180, 210, 0.8)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+@import "./assets/Navbar.scss";
+@import "./assets/Product-List.scss";
+@import "./assets/Product.scss";
+@import "./assets/Modal.scss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  position: relative;
+}
